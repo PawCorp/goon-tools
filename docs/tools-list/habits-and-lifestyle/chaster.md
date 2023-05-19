@@ -1,4 +1,5 @@
 # Chaster
+**Public chastity timer**
 
 > https://chaster.app
 

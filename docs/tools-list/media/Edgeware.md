@@ -1,4 +1,5 @@
 # Edgeware
+**A "virus" that tries to keep you edged**
 
 > https://github.com/PetitTournesol/Edgeware
 
