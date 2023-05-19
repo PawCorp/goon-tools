@@ -42,7 +42,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/PawCorp/goon-tools/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/PawCorp/goon-tools/edit/main/',
         },
         blog: false,
         // blog: {
