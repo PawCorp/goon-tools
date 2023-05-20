@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgoon_tools=self.webpackChunkgoon_tools||[]).push([[121],{8070:o=>{o.exports=JSON.parse('[{"label":"IRL","permalink":"/docs/tags/irl","count":1},{"label":"JOI","permalink":"/docs/tags/joi","count":1}]')}}]);
