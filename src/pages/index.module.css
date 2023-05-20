@@ -8,6 +8,8 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-image: url(@site/static/img/banner.png);
+  background-position-y:center;
 }
 
 @media screen and (max-width: 996px) {
