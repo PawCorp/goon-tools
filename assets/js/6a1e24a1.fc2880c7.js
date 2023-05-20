@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgoon_tools=self.webpackChunkgoon_tools||[]).push([[47],{7694:o=>{o.exports=JSON.parse('{"label":"JOI","permalink":"/docs/tags/joi","allTagsPath":"/docs/tags","count":1,"items":[{"id":"tools-list/media/HeatControl","title":"Fap Instructor","description":"IRL JOI/slideshow tool","permalink":"/docs/tools-list/media/HeatControl"}]}')}}]);
