@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgoon_tools=self.webpackChunkgoon_tools||[]).push([[2520],{8957:s=>{s.exports=JSON.parse('{"label":"IRL","permalink":"/docs/tags/irl","allTagsPath":"/docs/tags","count":1,"items":[{"id":"tools-list/media/FapInstructor","title":"Fap Instructor","description":"IRL JOI/slideshow tool","permalink":"/docs/tools-list/media/FapInstructor"}]}')}}]);
